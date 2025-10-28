@@ -1,5 +1,5 @@
 {
-  "name": "chembl-server",
+  "name": "@natemaynard/chembl-mcp-server",
   "version": "1.0.0",
   "description": "A comprehensive Model Context Protocol server for accessing ChEMBL chemical database with 27 specialized tools for drug discovery, chemical informatics, and bioactivity analysis",
   "main": "build/index.js",
@@ -31,7 +31,7 @@
     "chemical-biology",
     "cheminformatics"
   ],
-  "author": "Augmented Nature",
+  "author": "Nate Maynard <nate@natomahq.com> (forked from Augmented Nature)",
   "license": "MIT",
   "dependencies": {
     "@modelcontextprotocol/sdk": "^0.5.0",
@@ -46,10 +46,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/augmented-nature/chembl-mcp-server"
+    "url": "https://github.com/natemaynard/ChEMBL-MCP-Server"
   },
-  "homepage": "https://github.com/augmented-nature/chembl-mcp-server#readme",
+  "homepage": "https://github.com/natemaynard/ChEMBL-MCP-Server#readme",
   "bugs": {
-    "url": "https://github.com/augmented-nature/chembl-mcp-server/issues"
+    "url": "https://github.com/natemaynard/ChEMBL-MCP-Server/issues"
   }
 }
